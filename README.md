@@ -17,9 +17,8 @@ We combine cutting-edge AI technology with creative expertise to craft unique br
 Our goal is simple: help you launch, grow, and evolve your brand with speed, precision, and impact.
 
 
+**Phase 2: AI-Generated Design & Marketing Content**
 
-** Phase 2: AI-Generated Design & Marketing Content
-**
  Post Idea — “Your Brand, Supercharged by AI”
 💡 Hook: “Imagine if your brand could think, learn, and evolve like a human — but faster!”
 📸 Visual: Split-screen before/after brand transformation (left = outdated logo, right = sleek AI-redesigned branding).
