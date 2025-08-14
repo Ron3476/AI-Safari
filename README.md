@@ -1,4 +1,5 @@
-Phase 1: Branding & Business Setup
+**Phase 1: Branding & Business Setup**
+
 Business Name:
 
 BrandNova AI
@@ -17,8 +18,8 @@ Our goal is simple: help you launch, grow, and evolve your brand with speed, pre
 
 
 
- Phase 2: AI-Generated Design & Marketing Content
-
+** Phase 2: AI-Generated Design & Marketing Content
+**
  Post Idea — “Your Brand, Supercharged by AI”
 💡 Hook: “Imagine if your brand could think, learn, and evolve like a human — but faster!”
 📸 Visual: Split-screen before/after brand transformation (left = outdated logo, right = sleek AI-redesigned branding).
@@ -87,7 +88,7 @@ If you want to stay relevant and competitive in the years ahead, now is the time
 
 
 
-Phase 3: Client Outreach & Monetization
+**Phase 3: Client Outreach & Monetization**
 
 Sales Strategies for Branding Assets
 A. Position Yourself as a Problem-Solver, Not a Seller
