@@ -1,0 +1,29 @@
+When AI Goes Wrong: Two Real-World Fairness Issues
+
+Artificial Intelligence brings speed and efficiency, but if not controlled, it may unwittingly continue bias or cause harm. Let us explore two common scenarios and how we can improve them.
+
+"1. Hiring Bot Bias"
+
+What's happening:
+A company uses an AI sift to categorize job applicants. The model is more likely to rule out female applicants with career breaks, usually to raise children or take parental leave.
+
+What's the problem:
+The AI is reinforcing traditional employment biases. If past hiring history had discriminated in favor of continuous work experience and male applicants, the model learns to equate career breaks with lower fit, unfairly discriminating against women and caregivers. 
+
+A possible solution:
+Retrain and audit the AI model on well-balanced, bias-adjusted data so that career interruptions do not trigger a negative signal. Include diverse success scenarios in training to expand the system's definition of "qualified."
+
+"2. School Proctoring AI Overreach"
+
+What's happening:
+An AI system proctors remote students. It catches "cheating" from unusual eye patterns, but flags neurodivergent students whose attention patterns are abnormal.
+
+What's failing:
+The AI has a narrow definition of what is "normal" behavior and makes incorrect assumptions. This harms students' reputations and can cause stress or discrimination against neurodivergent pupils.
+
+Improvement idea:
+Rethink the system to have multiple points of evidence before flagging cheating, i.e., patterns of keystrokes, exam times, or cross-checked by human review instead of eye movement only.
+
+"Closing Thoughts"
+
+AI can be a powerful partner, but only if it embodies the same fairness, accountability, and inclusiveness that we expect of human decision-makers. By paying attention to careful design, regular auditability, and diverse training data, we can ensure that AI benefits rather than harms the populations it serves.
